@@ -10,8 +10,8 @@ npm run dev
 
 # server
 
-``bash
+```bash
 cd server
 npm install
 npm run server
-``
+```
