@@ -1,12 +1,12 @@
-Get sterted
+###Get sterted
 
 # client
 
-``bash
+```bash
 cd client
 npm install
 npm run dev
-``
+```
 
 # server
 
