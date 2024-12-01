@@ -1,7 +1,7 @@
 ### Get sterted
 
 # client
-
+complete
 ```bash
 cd client
 npm install
